@@ -1,0 +1,3 @@
+[submodule ".config/leftwm/themes/Dracula-theme"]
+	path = .config/leftwm/themes/Dracula-theme
+	url = https://github.com/Eirikalv1/Dracula-theme
